@@ -17,7 +17,7 @@ Thermodynamics issues with electrochemical processes in a semi-closed environmen
 
 However the amplitude of the spike and its propagation realm and reach remains within the scope.
 
-Modelling of vertebrate brain through primarily modelling of visual cortex. Accomplishing and implementation of sensing, experiencing, recognizing, pattern recognition, recalling, imagining, dreaming, thinking creatively and inspiringly, guessing, selecting, sequencing and ordering logically, chronologically, relationally and geographically, deciding, responding by the mammalian brain model and its known components and elements. The physiological neurological human brain functions (and further beyond) is the relevance domain.
+Modelling of primate brain through primarily modelling of visual cortex. Accomplishing and implementation of sensing, experiencing, recognizing, pattern recognition, recalling, imagining, dreaming, thinking creatively and inspiringly, guessing, selecting, sequencing and ordering logically, chronologically, relationally and geographically, deciding, responding by the mammalian brain model and its known components and elements. The physiological neurological human brain functions (and further beyond) is the relevance domain.
 
 
 
