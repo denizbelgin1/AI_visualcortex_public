@@ -1,5 +1,7 @@
 # AI_visualcortex_public
 The Hodgkin–Huxley model, or conductance-based model, is the inspirational scientific basis for this project. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf
+
 
 Modelling of vertebrate brain through primarily modelling of visual cortex. Accomplishing and implementation of sensing, experiencing, recognizing, pattern recognition, recalling, imagining, dreaming, thinking creatively and inspiringly, guessing, selecting, sequencing and ordering logically, chronologically, relationally and geographically, deciding, responding by the mammalian brain model and its known components and elements. The physiological neurological human brain functions (and further beyond) is the relevance domain.
 
